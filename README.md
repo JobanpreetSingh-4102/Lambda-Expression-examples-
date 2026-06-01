@@ -13,11 +13,7 @@ A simple Java project demonstrating **Lambda Expressions**, **Functional Interfa
 - Stream API
 - Method References
 
-## 💻 Example
 
-```java
-List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
-names.forEach(name -> System.out.println(name));
 🎯 Learning Outcomes
 Write concise Java code using Lambdas
 Understand Functional Interfaces
